@@ -1,1 +1,0 @@
-worker: python hunter.py
